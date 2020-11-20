@@ -1,0 +1,18 @@
+#!/bin/bash
+# Dopo = no spazio 
+# Use for gnome "cd .local/share/applications/"
+# Icon Path neded
+[Desktop Entry]  
+Version=1.0.0
+Name=ReactWiewer
+GenericName=
+Comment=
+Exec=/usr/bin/out/win/win
+Terminal=
+Icon= /usr/share/icons/Pop/64x64/apps/0ad.svg
+Type=Application
+Categories=#Network;WebBrowser;
+MimeType=text/html;
+Name[en_NZ]=#some
+GenericName[en_NZ]=#some             
+Comment[en_NZ]=#
