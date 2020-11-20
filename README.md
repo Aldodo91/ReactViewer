@@ -2,18 +2,15 @@
 
 This app goes to "localhost:3000", use for see React things 
 
-### Install
+### Install dependency
 
 ```bash
 npm install
-npm run package
-
-
-sudo mv -r out /path
+sudo apt install rpm
 ```
+
+### Make the App
 
 ```bash
-mv ReactViewe.desktop $HOME/.local/share/applications/
+npm run make 
 ```
-
-
